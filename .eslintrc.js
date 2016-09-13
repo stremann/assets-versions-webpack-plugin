@@ -8,7 +8,6 @@ module.exports = {
         'comma-dangle': 0,
         'import/no-extraneous-dependencies': ['error', {devDependencies: true}],
         'indent': [2, 4, {SwitchCase: 1}],
-        'no-confusing-arrow': 0,
         'no-console': ['error', { allow: ['warn'] }]
     },
     globals: {
