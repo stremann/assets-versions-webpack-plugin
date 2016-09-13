@@ -1,6 +1,6 @@
 {
   "name": "assets-versions-webpack-plugin",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Assets Versions",
   "main": "src/index.js",
   "scripts": {
