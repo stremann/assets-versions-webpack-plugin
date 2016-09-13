@@ -12,7 +12,7 @@ Easy assets versions Webpack plugin.
 To install the stable version:
 
 ```
-npm install --save assets-versions-webpack-plugin
+npm install --save-dev assets-versions-webpack-plugin
 ```
 
 This assumes you are using [npm](https://www.npmjs.com/) as your package manager.  
