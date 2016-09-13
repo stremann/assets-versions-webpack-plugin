@@ -1,0 +1,14 @@
+# Intellij Idea project files
+.idea
+
+# Compiler config
+.babelrc
+
+# Linter config
+.eslintrc.js
+
+# CI config
+.travis.yml
+
+# Test source
+test
